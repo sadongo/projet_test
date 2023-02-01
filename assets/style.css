@@ -1,0 +1,9 @@
+body {
+    background-color: rgba(43, 43, 43, 0.717);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
+}
